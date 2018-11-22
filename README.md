@@ -34,6 +34,7 @@ With these I can list possible systems I will eventually need to work on, and wh
 ----
 ## 3. Devices
 Before the showcase of what I have done, here's a table of devices I currently own:
+
 |Device Name | Device | Type | Features | Quantity 
 |--|--|--|--|--|
 | [Yeelight YLDP02YL](https://pt.gearbest.com/smart-lighting/pp_361555.html) | <img src="https://gloimg.gbtcdn.com/soa/gb/pdm-product-pic/Electronic/2018/06/20/source-img/20180620161236_33995.jpg" width="150px" height="150">  | **Light** | RGBW, brightness, temperature | 3x

@@ -15,16 +15,18 @@ When I found this I was thrilled: I could re-use all my devices and use the Xiao
 ----
 
 ## 2. Objectives
-First, what I had to do was to define why I wanted to do a smart home system in the first place and this is my primary goal:
+First, what I had to do was to define core sections that I should primarily focus on, and from them, submerge into their related systems. These are the core sections I decided on:
+> - **Comfort** - *the less I do the better*
+> - **Security** - *the less I worry  the better*
+> - **Control** - *the more I costumize the better*
+> - **Feedback** - *the more I know the better*
 
-> **Doing less without losing control**
-
-This goal is very broad, but it allowed my to subdivide, and organize, this into smaller goals:
+With these I can list possible systems I will eventually need to work on, and which devices I would need.
 
 | Section     | Systems                                                            | Devices |
 |-------------|--------------------------------------------------------------------|---------|
-| Better Comfort | automated lights and switches, media control, voice input   | bulbs, LEDs, power switches, motion sensors, smart televisions, chromecasts, echos |
-| Better Security | surveillance, door & window state detection, vacant house mode | cameras, climate sensors, door sensors, presence sensors |
-| Relevant Information | push notifications, TTS, family tracking, external information  (forecasts and traffic) | speakers, routers, device trackers, echos 
-
+| **Comfort** | automated lights and switches, automated scenes and modes depending on context   | bulbs, LEDs, power switches, motion sensors, climate sensors |
+| **Security** | surveillance, door & window state detection, alarms, online security | cameras, climate sensors, door sensors, presence sensors |
+| **Control** | family tracking, media control, voice input, external information  (forecasts and traffic), internal and external access | speakers, tvs, routers, natural language processors, device trackers, chromecasts
+| **Feedback** | push notifications, speaker TTS, web interfaces | speakers, smartphones, computers|
 
